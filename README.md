@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate .NET Core developer with over 7 years of experience designing and implementing robust enterprise applications for Fortune 500 companies and startups alike. My expertise spans the entire software development lifecycle, from architecture design to deployment and maintenance.
+I'm a passionate .NET Core developer with over 1 years of experience designing and implementing robust enterprise applications for Fortune 500 companies and startups alike. My expertise spans the entire software development lifecycle, from architecture design to deployment and maintenance.
 
 I specialize in building scalable microservices, RESTful APIs, and cloud-native applications using the latest Microsoft technologies. I believe in writing clean, maintainable code and following best practices that ensure long-term project success.
 
